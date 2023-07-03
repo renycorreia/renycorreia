@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 <div>
 <a href="https://github.com/renycorreia">
-<img height="180em" src="https://github-readme-stats-nu-swart-79.vercel.app/api?username=renycorreia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-nu-swart-79.vercel.app/api/top-langs/?username=renycorreia&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats-renycorreia.vercel.app/api?username=renycorreia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-renycorreia.vercel.app/api/top-langs/?username=renycorreia&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
  ##  
